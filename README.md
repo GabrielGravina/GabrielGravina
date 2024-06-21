@@ -1,7 +1,7 @@
-#<h1>Gabriel Gravina 
+<h1>#Gabriel Gravina 
 <div>
 
-Estudante de Ciência da Computação - UENF
+<h4>Estudante de Ciência da Computação - UENF
 </div>
 <div>
     <a href="https://github.com/GabrielGravina"></a>
