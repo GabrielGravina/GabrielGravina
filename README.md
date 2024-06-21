@@ -7,7 +7,7 @@ Estudante de Ciência da Computação - UENF
     <a href="https://github.com/GabrielGravina"></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielGravina&layout=compact&langs_count=7&theme=tokyonight&text_color=blue&border_radius=1rem&hide_border=true"/>
 </div>
-
+<div>[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:gabrielgravina01@gmail.com)</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabriel-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />  
   <img align="center" alt="Gabriel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
