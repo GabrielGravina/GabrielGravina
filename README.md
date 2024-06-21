@@ -1,6 +1,8 @@
-#Gabriel Gravina
+#<h2>Gabriel Gravina 
+<div>
 Estudante de Ciência da Computação - UENF
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:gabrielgravina01@gmail.com)
+</div>
 <div>
     <a href="https://github.com/GabrielGravina"></a>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielGravina&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&text_color=darkblue&border_radius=1rem&hide_border=true"/>
